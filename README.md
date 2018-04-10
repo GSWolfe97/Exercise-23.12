@@ -11,7 +11,6 @@ Write a program that randomly generates 1,000,000 intergers and sorts them using
 ### Testing
 
 ## Notes
-Everything works as it should except at the end there is a 3 digit integer
 
 ## Do not change content below this line
 ## Adapted from a README Built With
